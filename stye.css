@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+}
+.head{
+    background-color: red;
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    font-size: 50px;
+}
+.mather{
+    background-color: aquamarine;
+    width: 100%;
+    height: 260px;
+    display: flex;
+}
+.nav{
+    background-color: aqua;
+    width: 50%;
+height: 260px;
+text-align: center;
+font-size: 50px;
+}
+.information{
+    background-color: blueviolet;
+    width: 50%;
+    height: 260px;
+    text-align: center;
+    font-size: 50px;
+}
+.podval{
+    background-color: yellowgreen;
+    width: 100%;
+    height: 250px;
+    display: flex;
+}
+.tree{
+    background-color: cyan;
+    width: 33%;
+    height: 250px;
+    text-align: center;
+    font-size: 50px;    
+}
+.cheture{
+    background-color: chartreuse;
+    width: 34%;
+    height: 250px;
+    text-align: center;
+    font-size: 50px;
+}
+.pit{
+    background-color: springgreen;
+    width: 33%;
+    height: 250px;
+    text-align: center;
+    font-size: 50px;
+}
